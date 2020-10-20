@@ -1,6 +1,6 @@
 package clinic.programming.training;
 
-public class Application {
+class Application {
 
     public Application() {
         System.out.println ("Inside Application");
